@@ -31,6 +31,3 @@
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=frostykirbz&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="frostykirbz" />
 </p>
-
-<!-- Snake Animation -->
-![Snake Animation](https://github.com/frostykirbz/frostykirbz/blob/output/github-contribution-grid-snake.svg)
